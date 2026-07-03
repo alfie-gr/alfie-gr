@@ -61,17 +61,19 @@ A job listing platform built with Flutter and Firebase, designed to simplify job
 
 ---
 
-### 🖼️ Photo Album
+### 🖼️ Personal Freelance Website
 
-A modern photo management application inspired by the iOS Photos app, built using Flutter.
+A modern freelance webisite made to take requests for website development jobs and display my existing work
 
 **Tech Stack:** Flutter
 
 ---
 
-### 🔐 Privacy Project
+### 🔐 End to End, Peer to Peer Encrypted Chat App
 
-A university project exploring privacy-focused software design and security principles.
+A university project exploring decentralised, privacy-preserving software that replaces centralised trust with peer-to-peer trust relationships, giving users greater control over their data.
+
+**Tech Stack:** Flutter 
 
 ---
 
