@@ -1,35 +1,106 @@
+# 👋 Hi, I'm Alfie Gray
 
+I'm a final-year Computer Science student in the UK, graduating soon and currently looking for graduate software engineering opportunities.
 
-Final-year Cyber Security student focused on building secure, privacy-first systems and real-world applications.
+I enjoy designing and building full-stack applications with a focus on creating clean, intuitive user experiences. Most of my recent work has been in Flutter, Firebase, and modern web technologies, but I'm always keen to learn new tools and frameworks.
 
-I enjoy working on:
+---
 
-🔐 Cryptography & secure communication systems
-🧠 Cyber Security (SOC, defensive security, system design)
-📱 Mobile development with Flutter
-🛠️ Building practical software that solves real problems
+## 🚀 About Me
 
+* 🎓 Final-year Computer Science student graduating soon
+* 💼 Currently looking for graduate Software Engineer opportunities
+* 📱 Building cross-platform applications with Flutter
+* ☁️ Interested in cloud technologies, backend development, and mobile development
+* 🔒 Enjoy building secure, scalable, and well-designed applications
 
-🚀 Current Project: End-to-End Encrypted Messaging Platform
-A decentralised peer-to-peer messaging system with:
+---
 
-RSA-based identity exchange (QR pairing)
-Diffie-Hellman key exchange for secure sessions
-Encrypted local message storage
-Built using Flutter
-🧰 Tech Stack
+## 🛠️ Technologies
 
-Languages: Dart, Python, Haskell
-Frameworks: Flutter
-Security: Cryptography, encryption protocols, secure system design
-Tools: Git, Linux, debugging tools, version control
+### Languages
 
-📌 Interests
-Cyber Security / SOC Analysis
-Secure system architecture
-Privacy-focused applications
-Low-level security concepts
+* Dart
+* TypeScript
+* JavaScript
+* Java
+* Python
+* C#
+* Haskell
+* SQL
 
-📫 Contact
-Email: alfie_gray@outlook.com
-Location: UK
+### Frameworks & Tools
+
+* Flutter
+* React
+* Firebase
+* Git & GitHub
+* Docker
+* Node.js
+* Vite
+
+---
+
+## 📂 Featured Projects
+
+Here are some of the projects I'm currently working on.
+
+### 🚗 Mock Driving Test App
+
+A Flutter application for driving instructors to record mock driving tests digitally, manage pupils, organise test history, and generate reports.
+
+**Tech Stack:** Flutter • Firebase • Cloud Firestore
+
+---
+
+### 💼 Gibraltar Jobs
+
+A job listing platform built with Flutter and Firebase, designed to simplify job searching and recruitment in Gibraltar.
+
+**Tech Stack:** Flutter • Firebase • Typesense
+
+---
+
+### 🖼️ Photo Album
+
+A modern photo management application inspired by the iOS Photos app, built using Flutter.
+
+**Tech Stack:** Flutter
+
+---
+
+### 🔐 Privacy Project
+
+A university project exploring privacy-focused software design and security principles.
+
+---
+
+## 📁 Project Repositories
+
+This repository includes several Git submodules containing my individual projects.
+
+| Project                 | Description |
+| ----------------------- | ----------- |
+| *(Add repository here)* | Description |
+| *(Add repository here)* | Description |
+| *(Add repository here)* | Description |
+
+---
+
+## 🎯 Currently Working On
+
+* Expanding the Mock Driving Test App
+* Developing the Gibraltar Jobs platform
+* Learning more about scalable backend architecture and cloud services
+
+---
+
+## 📫 Get in Touch
+
+I'm always happy to connect and discuss software development, university projects, or graduate opportunities.
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: *(Add your profile)*
+* Email: *(Add your email if you'd like recruiters to contact you)*
+
+Thanks for stopping by!
