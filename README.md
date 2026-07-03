@@ -8,9 +8,9 @@ I enjoy working on:
 🧠 Cyber Security (SOC, defensive security, system design)
 📱 Mobile development with Flutter
 🛠️ Building practical software that solves real problems
-🚀 Current Project
 
-End-to-End Encrypted Messaging Platform
+
+🚀 Current Project: End-to-End Encrypted Messaging Platform
 A decentralised peer-to-peer messaging system with:
 
 RSA-based identity exchange (QR pairing)
