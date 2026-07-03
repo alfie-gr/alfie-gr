@@ -6,36 +6,26 @@ I'm a final-year Computer Science student in the UK, expected to graduate in 202
 
 ## 🚀 About Me
 
-* 🎓 Final-year Computer Science student graduating soon
-* 💼 Currently looking for graduate Tech, IT and programming opportunities
-* 📱 Building cross-platform applications with Flutter
-* ☁️ Interested in cloud technologies, backend development, cryptography, and mobile development
-* 🔒 Enjoy building secure, scalable, and well-designed applications
+- 📱 Passionate about building real-world mobile and web applications
+- 🔒 Interested in privacy, security, and distributed systems
+- ☁️ Enjoy working with Firebase and cloud-based architectures
+- 🧠 Strong focus on clean UI/UX and maintainable code
 
 ---
 
 ## 🛠️ Technologies
 
-### Languages
+**Languages**
+Dart • TypeScript • JavaScript • Java • Python • C# • Haskell • SQL
 
-* Dart
-* TypeScript
-* JavaScript
-* Java
-* Python
-* C#
-* Haskell
-* SQL
+**Frameworks & Libraries**
+Flutter • React • Node.js • Vite
 
-### Frameworks & Tools
+**Backend & Cloud**
+Firebase • Cloud Firestore • Authentication • Cloud Functions
 
-* Flutter
-* React
-* Firebase
-* Git & GitHub
-* Docker
-* Node.js
-* Vite
+**Tools**
+Git • GitHub • Docker • Android Studio • VS Code
 
 ---
 
@@ -48,8 +38,7 @@ Here are some of the projects I'm currently working on.
 <p align="center">
 <img src="images/MockDrive.png" width="500">
 </p>
-A Flutter application for driving instructors to record mock driving tests digitally, manage pupils, organise test history, and generate reports.
-
+A digital platform for driving instructors to conduct and record mock driving tests, manage pupils, and track progress over time with Firebase-backed storage.
 **Tech Stack:** Flutter • Firebase • Cloud Firestore
 
 ---
@@ -63,7 +52,7 @@ A Flutter application for driving instructors to record mock driving tests digit
   <img src="images/Jobraltar4.JPG" width="200" />
 </p>
 
-A job listing platform built with Flutter and Firebase, designed to simplify job searching and recruitment in Gibraltar.
+A job board platform designed to streamline job searching and recruitment in Gibraltar with fast search and filtering using Typesense.
 
 **Tech Stack:** Flutter • Firebase • Typesense
 
@@ -96,8 +85,8 @@ This repository includes several Git submodules containing my individual project
 
 | Project                 | Description |
 | ----------------------- | ----------- |
-| *https://github.com/alfie-gr/grayDevstudios* | Description |
-| *https://github.com/alfie-gr/IntensiveDriving* | Description |
+| *https://github.com/alfie-gr/grayDevstudios* | Personal website and project showcase |
+| *https://github.com/alfie-gr/IntensiveDriving* | Driving Intructor website displaying prices and checkout |
 
 
 ---
@@ -114,8 +103,7 @@ This repository includes several Git submodules containing my individual project
 
 I'm always happy to connect and discuss software development, university projects, or graduate opportunities.
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: *(Add your profile)*
-* Email: *(Add your email if you'd like recruiters to contact you)*
+* GitHub: https://github.com/alfie-gr
+* Email: *alfie_gray@outlook.com*
 
 Thanks for stopping by!
