@@ -73,6 +73,8 @@ A responsive portfolio and freelance website showcasing my work, allowing potent
 
 ### 🔐 End to End, Peer to Peer Encrypted Chat App
 
+<img src="images/PrivacyApp.jpeg" width="300">
+
 A university project exploring decentralised, privacy-preserving software that replaces centralised trust with peer-to-peer trust relationships, giving users greater control over their data.
 
 **Tech Stack:** Flutter 
