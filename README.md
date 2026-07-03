@@ -1,17 +1,15 @@
 # 👋 Hi, I'm Alfie Gray
 
-I'm a final-year Computer Science student in the UK, graduating soon and currently looking for graduate software engineering opportunities.
-
-I enjoy designing and building full-stack applications with a focus on creating clean, intuitive user experiences. Most of my recent work has been in Flutter, Firebase, and modern web technologies, but I'm always keen to learn new tools and frameworks.
+I'm a final-year Computer Science student in the UK, expected to graduate in 2026 and currently looking for graduate Software Engineer, Mobile Developer, Full-Stack Developer, or other technology-focused opportunities. I enjoy designing and building full-stack applications with a focus on creating clean, intuitive user experiences. Most of my recent work has been in Flutter, Firebase, and modern web technologies, but I'm always keen to learn new tools and frameworks.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Final-year Computer Science student graduating soon
-* 💼 Currently looking for graduate Software Engineer opportunities
+* 💼 Currently looking for graduate Tech, IT and programming opportunities
 * 📱 Building cross-platform applications with Flutter
-* ☁️ Interested in cloud technologies, backend development, and mobile development
+* ☁️ Interested in cloud technologies, backend development, cryptography, and mobile development
 * 🔒 Enjoy building secure, scalable, and well-designed applications
 
 ---
@@ -63,7 +61,7 @@ A job listing platform built with Flutter and Firebase, designed to simplify job
 
 ### 🖼️ Personal Freelance Website
 
-A modern freelance webisite made to take requests for website development jobs and display my existing work
+A responsive portfolio and freelance website showcasing my work, allowing potential clients to browse projects and submit website development enquiries.
 
 **Tech Stack:** Flutter
 
