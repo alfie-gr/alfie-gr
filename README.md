@@ -45,8 +45,9 @@ Here are some of the projects I'm currently working on.
 
 ### 🚗 Mock Driving Test App
 
+<p align="center">
 <img src="images/MockDrive.png" width="500">
-
+</p>
 A Flutter application for driving instructors to record mock driving tests digitally, manage pupils, organise test history, and generate reports.
 
 **Tech Stack:** Flutter • Firebase • Cloud Firestore
@@ -54,6 +55,13 @@ A Flutter application for driving instructors to record mock driving tests digit
 ---
 
 ### 💼 Gibraltar Jobs
+
+<p align="center">
+  <img src="images/Jobraltar1.JPG" width="200" />
+  <img src="images/Jobraltar2.JPG" width="200" />
+  <img src="images/Jobraltar3.JPG" width="200" />
+  <img src="images/Jobraltar4.JPG" width="200" />
+</p>
 
 A job listing platform built with Flutter and Firebase, designed to simplify job searching and recruitment in Gibraltar.
 
@@ -63,8 +71,9 @@ A job listing platform built with Flutter and Firebase, designed to simplify job
 
 ### 🖼️ Personal Freelance Website
 
+<p align="center">
 <img src="images/Website.png" width="500">
-
+</p>
 A responsive portfolio and freelance website showcasing my work, allowing potential clients to browse projects and submit website development enquiries.
 
 **Tech Stack:** Flutter
@@ -72,9 +81,9 @@ A responsive portfolio and freelance website showcasing my work, allowing potent
 ---
 
 ### 🔐 End to End, Peer to Peer Encrypted Chat App
-
-<img src="images/PrivacyApp.jpeg" width="300">
-
+<p align="center">
+<img src="images/PrivacyApp.jpeg" width="200">
+</p>
 A university project exploring decentralised, privacy-preserving software that replaces centralised trust with peer-to-peer trust relationships, giving users greater control over their data.
 
 **Tech Stack:** Flutter 
@@ -87,9 +96,9 @@ This repository includes several Git submodules containing my individual project
 
 | Project                 | Description |
 | ----------------------- | ----------- |
-| *(Add repository here)* | Description |
-| *(Add repository here)* | Description |
-| *(Add repository here)* | Description |
+| *https://github.com/alfie-gr/grayDevstudios* | Description |
+| *https://github.com/alfie-gr/IntensiveDriving* | Description |
+
 
 ---
 
