@@ -45,7 +45,7 @@ Here are some of the projects I'm currently working on.
 
 ### 🚗 Mock Driving Test App
 
-<img src="images/MockDrive.png" width="800">
+<img src="images/MockDrive.png" width="500">
 
 A Flutter application for driving instructors to record mock driving tests digitally, manage pupils, organise test history, and generate reports.
 
