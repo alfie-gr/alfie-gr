@@ -91,11 +91,17 @@ This repository includes several Git submodules containing my individual project
 
 ---
 
-## 🎯 Currently Working On
+## 💼 What I'm Looking For
 
-* Expanding the Mock Driving Test App
-* Developing the Gibraltar Jobs platform
-* Learning more about scalable backend architecture and cloud services
+I'm currently looking for graduate roles in:
+- Software Engineering
+- Mobile App Development
+- Full-Stack Development
+
+I'm particularly interested in companies working on:
+- Scalable web and mobile applications
+- Cloud-based systems
+- Privacy-focused or security-conscious software
 
 ---
 
